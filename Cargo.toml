@@ -1,0 +1,6 @@
+[package]
+name = "hue-rust"
+version = "0.1.0"
+authors = ["wilspi <thewilspi@gmail.com>"]
+
+[dependencies]
