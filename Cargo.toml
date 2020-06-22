@@ -1,6 +1,14 @@
 [package]
 name = "hue-rust"
 version = "0.1.0"
+description = "Rust bindings for Philips Hue API"
+readme = "README.md"
+repository = "https://github.com/wilspi/hue-rust"
+license = "MIT"
 authors = ["wilspi <thewilspi@gmail.com>"]
+keywords = ["hue","rust","philips"]
 
 [dependencies]
+mdns = "~0.2.3"
+# igd = "~0.7.0"
+hyper = "~0.10.5"
