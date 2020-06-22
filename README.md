@@ -1,6 +1,8 @@
 hue-rust
 ========
 
+In Development
+
 Todo:
 * timeout
 * error struct
